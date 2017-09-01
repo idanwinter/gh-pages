@@ -9,18 +9,5 @@
         "name": "IDan"
     },
     "items": [
-        {
-            "id": "https://idanwinter.github.io/gh-pages/see.html",
-            "url": "https://idanwinter.github.io/gh-pages/see.html",
-            "title": "See",
-            "image": "https://idanwinter.github.io/gh-pages/media/posts/1/20589968_267386583665739_1431744227343073280_n.jpg",
-            "author": {
-                "name": "IDan"
-            },
-            "tags": [
-            ],
-            "date_published": "2017-09-01T18:33:17+03:00",
-            "date_modified": "2017-09-01T18:22:37+03:00"
-        }
     ]
 }
