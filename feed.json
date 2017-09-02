@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "idans-website",
+    "title": "idan-winter-phography",
     "description": "",
     "home_page_url": "https://idanwinter.github.io/gh-pages",
     "feed_url": "https://idanwinter.github.io/gh-pages/feed.json",
@@ -9,6 +9,34 @@
         "name": "IDan"
     },
     "items": [
+        {
+            "id": "https://idanwinter.github.io/gh-pages/tel-aviv.html",
+            "url": "https://idanwinter.github.io/gh-pages/tel-aviv.html",
+            "title": "Tel Aviv",
+            "image": "https://idanwinter.github.io/gh-pages/media/posts/13/21224056_121030708554055_2459499260979183616_n.jpg",
+            "author": {
+                "name": "IDan"
+            },
+            "tags": [
+                   "City"
+            ],
+            "date_published": "2017-09-02T12:23:25+03:00",
+            "date_modified": "2017-09-02T12:22:55+03:00"
+        },
+        {
+            "id": "https://idanwinter.github.io/gh-pages/talent.html",
+            "url": "https://idanwinter.github.io/gh-pages/talent.html",
+            "title": "Talent",
+            "image": "https://idanwinter.github.io/gh-pages/media/posts/12/21149064_479964792374315_399963860162838528_n.jpg",
+            "author": {
+                "name": "IDan"
+            },
+            "tags": [
+                   "People"
+            ],
+            "date_published": "2017-09-02T12:23:25+03:00",
+            "date_modified": "2017-09-02T12:22:33+03:00"
+        },
         {
             "id": "https://idanwinter.github.io/gh-pages/see.html",
             "url": "https://idanwinter.github.io/gh-pages/see.html",
@@ -20,7 +48,7 @@
             "tags": [
                    "Nature"
             ],
-            "date_published": "2017-09-02T11:52:17+03:00",
+            "date_published": "2017-09-02T12:23:25+03:00",
             "date_modified": "2017-09-01T21:29:08+03:00"
         },
         {
@@ -35,7 +63,7 @@
                    "People",
                    "City"
             ],
-            "date_published": "2017-09-02T11:52:17+03:00",
+            "date_published": "2017-09-02T12:23:25+03:00",
             "date_modified": "2017-09-01T21:29:17+03:00"
         },
         {
@@ -49,7 +77,7 @@
             "tags": [
                    "Nature"
             ],
-            "date_published": "2017-09-02T11:52:17+03:00",
+            "date_published": "2017-09-02T12:23:25+03:00",
             "date_modified": "2017-09-01T21:29:28+03:00"
         },
         {
@@ -63,7 +91,7 @@
             "tags": [
                    "City"
             ],
-            "date_published": "2017-09-02T11:52:17+03:00",
+            "date_published": "2017-09-02T12:23:25+03:00",
             "date_modified": "2017-09-01T21:30:09+03:00"
         },
         {
@@ -77,7 +105,7 @@
             "tags": [
                    "People"
             ],
-            "date_published": "2017-09-02T11:52:17+03:00",
+            "date_published": "2017-09-02T12:23:25+03:00",
             "date_modified": "2017-09-01T21:30:22+03:00"
         }
     ]
