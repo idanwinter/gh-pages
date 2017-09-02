@@ -1,104 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>idan-winter-phography</title>
+    <title>idanwinterphotoscom</title>
     <link href="https://idanwinter.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://idanwinter.github.io/gh-pages" />
-    <updated>2017-09-02T12:23:25+03:00</updated>
+    <updated>1970-01-01T02:00:00+02:00</updated>
     <author>
-        <name>IDan</name>
+        <name>Idan Winter</name>
     </author>
     <id>https://idanwinter.github.io/gh-pages</id>
 
-    <entry>
-        <title>Tel Aviv</title>
-        <author>
-            <name>IDan</name>
-        </author>
-        <link href="https://idanwinter.github.io/gh-pages/tel-aviv.html"/>
-        <id>https://idanwinter.github.io/gh-pages/tel-aviv.html</id>
-            <category term="City"/>
-
-        <updated>2017-09-02T12:22:55+03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Talent</title>
-        <author>
-            <name>IDan</name>
-        </author>
-        <link href="https://idanwinter.github.io/gh-pages/talent.html"/>
-        <id>https://idanwinter.github.io/gh-pages/talent.html</id>
-            <category term="People"/>
-
-        <updated>2017-09-02T12:22:33+03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>See</title>
-        <author>
-            <name>IDan</name>
-        </author>
-        <link href="https://idanwinter.github.io/gh-pages/see.html"/>
-        <id>https://idanwinter.github.io/gh-pages/see.html</id>
-            <category term="Nature"/>
-
-        <updated>2017-09-01T21:29:08+03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Rush</title>
-        <author>
-            <name>IDan</name>
-        </author>
-        <link href="https://idanwinter.github.io/gh-pages/rush.html"/>
-        <id>https://idanwinter.github.io/gh-pages/rush.html</id>
-            <category term="People"/>
-            <category term="City"/>
-
-        <updated>2017-09-01T21:29:17+03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Shimmer</title>
-        <author>
-            <name>IDan</name>
-        </author>
-        <link href="https://idanwinter.github.io/gh-pages/shimmer.html"/>
-        <id>https://idanwinter.github.io/gh-pages/shimmer.html</id>
-            <category term="Nature"/>
-
-        <updated>2017-09-01T21:29:28+03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Emerge</title>
-        <author>
-            <name>IDan</name>
-        </author>
-        <link href="https://idanwinter.github.io/gh-pages/emerge.html"/>
-        <id>https://idanwinter.github.io/gh-pages/emerge.html</id>
-            <category term="City"/>
-
-        <updated>2017-09-01T21:30:09+03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Visionary</title>
-        <author>
-            <name>IDan</name>
-        </author>
-        <link href="https://idanwinter.github.io/gh-pages/visionary.html"/>
-        <id>https://idanwinter.github.io/gh-pages/visionary.html</id>
-            <category term="People"/>
-
-        <updated>2017-09-01T21:30:22+03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>
