@@ -3,12 +3,39 @@
     <title>idans-website</title>
     <link href="https://idanwinter.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://idanwinter.github.io/gh-pages" />
-    <updated>2017-09-01T20:32:57+03:00</updated>
+    <updated>2017-09-02T11:52:16+03:00</updated>
     <author>
         <name>IDan</name>
     </author>
     <id>https://idanwinter.github.io/gh-pages</id>
 
+    <entry>
+        <title>See</title>
+        <author>
+            <name>IDan</name>
+        </author>
+        <link href="https://idanwinter.github.io/gh-pages/see.html"/>
+        <id>https://idanwinter.github.io/gh-pages/see.html</id>
+            <category term="Nature"/>
+
+        <updated>2017-09-01T21:29:08+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Rush</title>
+        <author>
+            <name>IDan</name>
+        </author>
+        <link href="https://idanwinter.github.io/gh-pages/rush.html"/>
+        <id>https://idanwinter.github.io/gh-pages/rush.html</id>
+            <category term="People"/>
+            <category term="City"/>
+
+        <updated>2017-09-01T21:29:17+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Shimmer</title>
         <author>
@@ -16,8 +43,9 @@
         </author>
         <link href="https://idanwinter.github.io/gh-pages/shimmer.html"/>
         <id>https://idanwinter.github.io/gh-pages/shimmer.html</id>
+            <category term="Nature"/>
 
-        <updated>2017-09-01T19:14:04+03:00</updated>
+        <updated>2017-09-01T21:29:28+03:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -28,8 +56,9 @@
         </author>
         <link href="https://idanwinter.github.io/gh-pages/emerge.html"/>
         <id>https://idanwinter.github.io/gh-pages/emerge.html</id>
+            <category term="City"/>
 
-        <updated>2017-09-01T19:13:46+03:00</updated>
+        <updated>2017-09-01T21:30:09+03:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -40,8 +69,9 @@
         </author>
         <link href="https://idanwinter.github.io/gh-pages/visionary.html"/>
         <id>https://idanwinter.github.io/gh-pages/visionary.html</id>
+            <category term="People"/>
 
-        <updated>2017-09-01T19:12:42+03:00</updated>
+        <updated>2017-09-01T21:30:22+03:00</updated>
             <summary></summary>
         <content></content>
     </entry>
