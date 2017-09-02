@@ -3,10 +3,46 @@
     <title>idanwinterphotoscom</title>
     <link href="https://idanwinter.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://idanwinter.github.io/gh-pages" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2017-09-02T23:34:32+03:00</updated>
     <author>
         <name>Idan Winter</name>
     </author>
     <id>https://idanwinter.github.io/gh-pages</id>
 
+    <entry>
+        <title>Long Exposure in Rehovot</title>
+        <author>
+            <name>Idan Winter</name>
+        </author>
+        <link href="https://idanwinter.github.io/gh-pages/long-exposure-in-rehovot.html"/>
+        <id>https://idanwinter.github.io/gh-pages/long-exposure-in-rehovot.html</id>
+
+        <updated>2017-09-02T23:34:18+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Structure of NYC</title>
+        <author>
+            <name>Idan Winter</name>
+        </author>
+        <link href="https://idanwinter.github.io/gh-pages/the-structure-of-nyc.html"/>
+        <id>https://idanwinter.github.io/gh-pages/the-structure-of-nyc.html</id>
+
+        <updated>2017-09-02T23:33:58+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Backbone of The World Trade Center</title>
+        <author>
+            <name>Idan Winter</name>
+        </author>
+        <link href="https://idanwinter.github.io/gh-pages/the-backbone-of-the-world-trade-center.html"/>
+        <id>https://idanwinter.github.io/gh-pages/the-backbone-of-the-world-trade-center.html</id>
+
+        <updated>2017-09-02T23:33:20+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
